@@ -1,0 +1,14 @@
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\PolymorphismArchitecture\PolymorphismArchitecture\bin\Debug\PolymorphismArchitecture.exe.config
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\PolymorphismArchitecture\PolymorphismArchitecture\bin\Debug\PolymorphismArchitecture.exe
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\PolymorphismArchitecture\PolymorphismArchitecture\bin\Debug\PolymorphismArchitecture.pdb
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.csprojResolveAssemblyReference.cache
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.exe
+C:\Users\mmari\Documents\Visual Studio 2017\Projects\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.pdb
+C:\Users\Vla\_Programming\old_dz\New folder\c#\PolymorphismArchitecture\PolymorphismArchitecture\bin\Debug\PolymorphismArchitecture.exe.config
+C:\Users\Vla\_Programming\old_dz\New folder\c#\PolymorphismArchitecture\PolymorphismArchitecture\bin\Debug\PolymorphismArchitecture.exe
+C:\Users\Vla\_Programming\old_dz\New folder\c#\PolymorphismArchitecture\PolymorphismArchitecture\bin\Debug\PolymorphismArchitecture.pdb
+C:\Users\Vla\_Programming\old_dz\New folder\c#\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.csproj.AssemblyReference.cache
+C:\Users\Vla\_Programming\old_dz\New folder\c#\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Vla\_Programming\old_dz\New folder\c#\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.exe
+C:\Users\Vla\_Programming\old_dz\New folder\c#\PolymorphismArchitecture\PolymorphismArchitecture\obj\Debug\PolymorphismArchitecture.pdb

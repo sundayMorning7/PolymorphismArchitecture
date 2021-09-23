@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStorage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD-1</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>348</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD0</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash1</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD2</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD3</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD4</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash5</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD6</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD7</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD8</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash9</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash10</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD11</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD12</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD13</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD14</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD15</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD16</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD17</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD18</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash19</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD20</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD21</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD22</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD23</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD24</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD25</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="Dvd">
+    <Manufacturer>DVD26</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <ReadSpeed>300</ReadSpeed>
+    <WriteSpeed>400</WriteSpeed>
+  </Storage>
+  <Storage xsi:type="HDD">
+    <Manufacturer>HDD27</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <Size>400</Size>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash28</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash29</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>100</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+  <Storage xsi:type="Flash">
+    <Manufacturer>Flash40</Manufacturer>
+    <Model>2</Model>
+    <Name>3</Name>
+    <Count>200</Count>
+    <Capacity>348</Capacity>
+    <Speed>300</Speed>
+    <TotalMemory>400</TotalMemory>
+  </Storage>
+</ArrayOfStorage>
